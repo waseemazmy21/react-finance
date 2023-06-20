@@ -23,7 +23,7 @@ const Cards = () => {
             Start Trial
           </button>
         </div>
-        <div className=' shadow-xl flex flex-col text-center p-4 rounded-lg duration-300 hover:scale-105 md:my-[-2rem] bg-gray-100'>
+        <div className=' shadow-xl flex flex-col text-center p-4 rounded-lg duration-300 hover:scale-105 md:my-[-2rem] md:bg-gray-100'>
           <img className='w-20 mt-[-3rem] mx-auto  ' src={double} alt='' />
           <h3 className='text-2xl font-bold my-8'>Single User</h3>
           <p className='text-4xl font-bold mb-8'>$149</p>

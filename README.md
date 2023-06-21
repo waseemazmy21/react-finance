@@ -11,7 +11,7 @@
 
 ## Live Site
 
-Check out the live site [here](https://your-portfolio-site.com).
+Check out the live site [here](https://6492455d16966302be32be65--unrivaled-unicorn-598a98.netlify.app/).
 
 ## Installation
 

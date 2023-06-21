@@ -2,7 +2,7 @@ import React from 'react';
 
 const Newsletter = () => {
   return (
-    <div className='container py-16 text-white grid grid-rows-[auto_auto] lg:grid-cols-2 lg:grid-rows-1 gap-8 text-center lg:text-left'>
+    <div className='container py-20 md:py-36 text-white grid grid-rows-[auto_auto] lg:grid-cols-2 lg:grid-rows-1 gap-8 text-center lg:text-left'>
       <div>
         <h2 className='text-2xl sm:text-3xl md:text-4xl font-bold mb-2'>
           Want tips & tricks to optimize your flow?

@@ -15,7 +15,7 @@ Check out the live site [here](https://6492455d16966302be32be65--unrivaled-unico
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/portfolio-app.git`
+1. Clone the repository: `git clone https://github.com/waseemazmy21/react-landing-page`
 2. Navigate to the project directory: `cd portfolio-app`
 3. Install dependencies: `npm install`
 

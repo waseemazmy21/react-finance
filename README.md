@@ -2,16 +2,14 @@
 
 ![REACT LANDING PAGE](./public/screenshot.png)
 
+Check out the live site [here](https://6492455d16966302be32be65--unrivaled-unicorn-598a98.netlify.app/).
+
 ## Features
 
 - Fully responsive design to ensure optimal viewing experience across different devices and screen sizes.
 - Mobile-friendly menu that slides in from the left side of the screen.
 - Integration of React Icons for adding icons to the UI.
 - Implementation of React Type Animation package for engaging typewriter-style animations.
-
-## Live Site
-
-Check out the live site [here](https://6492455d16966302be32be65--unrivaled-unicorn-598a98.netlify.app/).
 
 ## Installation
 
@@ -22,6 +20,11 @@ Check out the live site [here](https://6492455d16966302be32be65--unrivaled-unico
 ## Usage
 
 1. Start the development server: `npm run dev`
+
+## Build and Preview
+
+1. Build the project: `npm run build`
+2. Preview the production build: `npm run preview`
 
 ## Technologies Used
 

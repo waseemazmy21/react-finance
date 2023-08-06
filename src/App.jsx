@@ -16,7 +16,7 @@ const App = () => {
   }
 
   return (
-    <div onClick={(e) => console.log(e.target)}>
+    <div>
       <Navbar isMenuOpened={isMenuOpened} handleMenuToggle={handleMenuToggle} />
       <Hero />
       <Analytics />

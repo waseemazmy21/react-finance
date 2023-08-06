@@ -2,7 +2,7 @@
 
 ![REACT LANDING PAGE](./public/screenshot.png)
 
-Check out the live site [here](https://6492455d16966302be32be65--unrivaled-unicorn-598a98.netlify.app/).
+Check out the live site [here](https://waseemazmy21.github.io/react-landing-page/).
 
 ## Features
 
